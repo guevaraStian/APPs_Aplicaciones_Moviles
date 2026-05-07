@@ -1,0 +1,82 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#000000"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Fecha y hora -->
+    <TextView
+        android:id="@+id/time"
+        android:textColor="#FF2400"
+        android:textSize="18sp"
+        android:padding="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000"/>
+
+    <!-- Datos de la barra de progreso -->
+    <ProgressBar
+        android:id="@+id/progress"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:max="100"
+        android:background="#000000"
+        android:progressTint="#FF2400"/>
+
+    <!-- Cualidades de los Botones -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000">
+
+        <Button
+            android:id="@+id/start"
+            android:text="Empezar escaneo"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textColor="#FF2400"
+            android:background="#000000"/>
+
+        <Button
+            android:id="@+id/stop"
+            android:text="STOP"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textColor="#FF2400"
+            android:background="#000000"/>
+
+    </LinearLayout>
+
+    <!-- Caracteristicas del radar -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#000000">
+
+        <com.example.cellradar.RadarView
+            android:id="@+id/radar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <com.example.cellradar.ErrorOverlay
+            android:id="@+id/error"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </FrameLayout>
+
+    <!-- Lista de datos -->
+    <TextView
+        android:id="@+id/list"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:textColor="#FF2400"
+        android:background="#000000"/>
+
+</LinearLayout>

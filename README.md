@@ -1,2 +1,3 @@
 # APPs_Aplicaciones_Moviles
-Varios software creados para celular
+
+En este repositorio se encuentras codigos de programacion relacionados a aplicaciones moviles de celular, esta el codigo de creacion y la apk que funciona.

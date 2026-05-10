@@ -1,6 +1,6 @@
 # APPs_Aplicaciones_Moviles
 
-En este repositorio se encuentras codigos de programacion relacionados a aplicaciones moviles de celular desde varios lenguajes de programacion, esta el codigo de creacion y la apk que funciona.
+En este repositorio se encuentras codigos de programacion relacionados a aplicaciones moviles de celular desde varios lenguajes de programacion, esta el codigo de creacion y la apk que funciona. Los primeros proyectos son radares de comunicaciones celulares, calculando el RSSI y RSRP.
 
 
 

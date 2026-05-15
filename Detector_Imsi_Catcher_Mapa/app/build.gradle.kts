@@ -23,20 +23,27 @@ android {
     }
 
     buildFeatures {
-
         viewBinding = true
     }
 
     compileOptions {
-
         sourceCompatibility = JavaVersion.VERSION_17
-
         targetCompatibility = JavaVersion.VERSION_17
     }
 
     kotlinOptions {
-
         jvmTarget = "17"
+    }
+
+    // ===============================
+    // NOMBRE DEL APK (KOTLIN DSL CORRECTO)
+    // ===============================
+    applicationVariants.all {
+        outputs.all {
+            val variant = this@all.name
+            (this as com.android.build.gradle.internal.api.BaseVariantOutputImpl)
+                .outputFileName = "Escaner_Imsi_Catcher-${variant}.apk"
+        }
     }
 }
 
@@ -55,4 +62,6 @@ dependencies {
     implementation("org.osmdroid:osmdroid-android:6.1.16")
 
     implementation("com.itextpdf:itext7-core:7.2.5")
+
+    implementation("org.osmdroid:osmdroid-wms:6.1.16")
 }

@@ -5,24 +5,29 @@ En este repositorio se encuentras codigos de programacion relacionados a aplicac
 
 Tambien hay un sensor de sonidos con volumen alto que esten cerca al celular, asi no los perciba el oido, la aplicacion los percibe.
 
-<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Detector_Imsi_Catcher_Mapa/APK/Escaner_Imsi_Catcher-debug.apk">
-  Detector_Imsi_Catcher_Mapa
+<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Detector_Imsi_Catcher_Mapa/APK/Escaner_Imsi_Catcher-debug.apk" download>
+  <button>
+    Detector_Imsi_Catcher_Mapa
+  </button>
+  
+</a>
+
+<br>
+<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Escaner_Volumen_Sonido/APK/app-debug.apk" download>
+  <button> Escaner_Volumen_Sonido </button>
 </a>
 <br>
-<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Escaner_Volumen_Sonido/APK/app-debug.apk">
-  Escaner_Volumen_Sonido
-</a>
-<br>
-<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Escuchar_Sonidos_Bajo_Volumenes/APK/app-debug.apk">
+<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Escuchar_Sonidos_Bajo_Volumenes/APK/app-debug.apk" download>  <button>
   Escuchar_Sonidos_Bajo_Volumenes
+  </button>
+</a>
+<br> 
+<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Radar_Bluetooth_Rssi/APK/app-debug.apk" download>
+  <button> Radar_Bluetooth_Rssi </button>
 </a>
 <br>
-<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Radar_Bluetooth_Rssi/APK/app-debug.apk">
-  Radar_Bluetooth_Rssi
-</a>
-<br>
-<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Radar_Torres_Celular_4G_Evidencia/APK/app-debug.apk">
-  Radar_Torres_Celular_4G_Evidencia
+<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Radar_Torres_Celular_4G_Evidencia/APK/app-debug.apk" download >
+  <button> Radar_Torres_Celular_4G_Evidencia</button> 
 </a>
 <br>
 

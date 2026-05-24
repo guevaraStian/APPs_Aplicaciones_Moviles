@@ -5,24 +5,13 @@ En este repositorio se encuentras codigos de programacion relacionados a aplicac
 
 Tambien hay un sensor de sonidos con volumen alto que esten cerca al celular, asi no los perciba el oido, la aplicacion los percibe.
 
-<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/Detector_Imsi_Catcher_Mapa/APK/Escaner_Imsi_Catcher-debug.apk" download>
-  <button>
-    Detector_Imsi_Catcher_Mapa
-  </button>
-  
-</a>
-
-<br>
-
 <br> 
 
 
-
-
+Los siguientes link sirven para descargar la apk de cada software creado en android studio.
+<br> 
 [Descargar Detector_Imsi_Catcher_Mapa](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/Detector_Imsi_Catcher_Mapa/APK/Escaner_Imsi_Catcher-debug.apk)
-
 <br>
-
 [Descargar Escaner_Volumen_Sonido](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/Escaner_Volumen_Sonido/APK/app-debug.apk)
 <br>
 [Descargar Escuchar_Sonidos_Bajo_Volumenes](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/tree/main/Escuchar_Sonidos_Bajo_Volumenes/APK/app-debug.apk)

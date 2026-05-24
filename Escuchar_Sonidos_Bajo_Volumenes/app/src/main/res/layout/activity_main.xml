@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+
+    android:background="#000000"
+
+    android:padding="12dp">
+
+    <TextView
+        android:id="@+id/dateTime"
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:textColor="#FFFFFF"
+
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/gps"
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:textColor="#FFFFFF"
+
+        android:textSize="16sp"
+
+        android:layout_marginBottom="12dp"/>
+
+    <com.example.escucharbajosvolumenes.GraphView
+        android:id="@+id/graphView"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="350dp"
+
+        android:background="#111111"/>
+
+    <Button
+        android:id="@+id/btnRecord"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:text="Iniciar Grabación"/>
+
+    <Button
+        android:id="@+id/btnStop"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:text="Detener Grabación"/>
+
+    <Button
+        android:id="@+id/btnPlay"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:text="Escuchar Audio"/>
+
+    <Button
+        android:id="@+id/btnSaveMp3"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:text="Descargar WAV + Imagen"/>
+</LinearLayout>

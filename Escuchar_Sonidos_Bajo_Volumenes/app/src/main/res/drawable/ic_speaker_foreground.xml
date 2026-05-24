@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Fondo azul -->
+
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M0,0h108v108h-108z"/>
+
+    <!-- Bocina -->
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="
+            M30,40
+            L50,40
+            L70,20
+            L70,88
+            L50,68
+            L30,68
+            Z"/>
+
+    <!-- Ondas sonido -->
+
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="4"
+        android:fillColor="@android:color/transparent"
+        android:pathData="
+            M76,38
+            Q90,54 76,70"/>
+
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="6"
+        android:fillColor="@android:color/transparent"
+        android:pathData="
+            M82,28
+            Q102,54 82,80"/>
+</vector>

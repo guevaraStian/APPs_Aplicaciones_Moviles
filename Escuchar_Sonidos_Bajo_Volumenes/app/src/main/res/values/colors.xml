@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Color fondo icono APK -->
+
+    <color name="icon_background">
+        #0D47A1
+    </color>
+
+    <!-- Colores principales aplicación -->
+
+    <color name="black">
+        #000000
+    </color>
+
+    <color name="white">
+        #FFFFFF
+    </color>
+
+    <color name="green">
+        #00FF00
+    </color>
+
+</resources>

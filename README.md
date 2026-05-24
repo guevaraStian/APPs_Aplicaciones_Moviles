@@ -5,6 +5,26 @@ En este repositorio se encuentras codigos de programacion relacionados a aplicac
 
 Tambien hay un sensor de sonidos con volumen alto que esten cerca al celular, asi no los perciba el oido, la aplicacion los percibe.
 
+<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Detector_Imsi_Catcher_Mapa/APK/Escaner_Imsi_Catcher-debug.apk">
+  Detector_Imsi_Catcher_Mapa
+</a>
+
+<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Escaner_Volumen_Sonido/APK/app-debug.apk">
+  Escaner_Volumen_Sonido
+</a>
+
+<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Escuchar_Sonidos_Bajo_Volumenes/APK/app-debug.apk">
+  Escuchar_Sonidos_Bajo_Volumenes
+</a>
+<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Radar_Bluetooth_Rssi/APK/app-debug.apk">
+  Radar_Bluetooth_Rssi
+</a>
+<a href="https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/Radar_Torres_Celular_4G_Evidencia/APK/app-debug.apk">
+  Radar_Torres_Celular_4G_Evidencia
+</a>
+
+
+
 
 
 <h2> ¡¡ ADVERTENCIA !! , TODOS LOS SOFTWARE DE ESTE REPOSITORIO, RELACIONADOS A CIBERSEGURIDAD TIENEN FUNCIONES EDUCATIVAS Y PEDAGOGICAS, NO DEBEN USARSE PARA VIOLAR PRIVACIDADES, NO DEBE USARSE SIN CONSENTIMIENTO DEL PROPIETARIO DEL DISPOSITIVO A HACKEAR. SON PROGRAMAS DE HACKING ETICO Y LA PERSONA QUE ACCEDAN A ESTOS SOFTWARE SON RESPONSABLE DE SU USO.</h2> 

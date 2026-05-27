@@ -1,16 +1,9 @@
 # APPs_Aplicaciones_Moviles
 
-<<<<<<< HEAD
-En este repositorio se encuentras codigos de programacion relacionados a aplicaciones moviles de celular desde varios lenguajes de programacion, esta el codigo de creacion y la apk que funciona. Los primeros proyectos son radares de comunicaciones celulares, calculando el RSSI y RSRP. Grafica un radar o un mapadonde se indican la ubicacion de cada torre celular de 4G, usando android studio y creando la APK. El detector de imsi catcher detecta cuando una antena pasa de 4G a GSM y calcula una ubicacion probable de este artefacto espia cercano usando su rssi.
 
-
-Tambien hay un sensor de sonidos con volumen alto que esten cerca al celular, asi no los perciba el oido, la aplicacion los percibe.
-
-=======
 En este repositorio se encuentras codigos de programacion relacionados a aplicaciones moviles de celular desde varios lenguajes de programacion, esta el codigo de creacion y la apk que funciona. Los primeros proyectos son radares de comunicaciones celulares, calculando el RSSI y RSRP. Grafica un radar o un mapadonde se indican la ubicacion de cada torre celular de 4G, usando android studio y creando la APK. El detector de imsi catcher detecta cuando una antena pasa de 4G a GSM y calcula una ubicacion probable de este artefacto espia cercano usando su rssi.Tambien hay un sensor de sonidos con volumen alto que esten cerca al celular, asi no los perciba el oido, la aplicacion los percibe. Y un radar de bluetooth con posible ubicacion. Tambien hay un software que escucha sonidos a bajo volumen.
 
 <br> 
->>>>>>> 1080118867c554ce5eca2c38f2f34430beb2d01b
 
 
 Los siguientes link sirven para descargar la apk de cada software creado en android studio.

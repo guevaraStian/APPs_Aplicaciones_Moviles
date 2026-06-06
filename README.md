@@ -19,4 +19,20 @@ Los siguientes link sirven para descargar la apk de cada software creado en andr
 [Descargar Radar_Torres_Celular_4G_Evidencia](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/Radar_Torres_Celular_4G_Evidencia/APK/app-debug.apk)
 <br>
 <br>
+
+
+Si quiere descargar los repositorios puede hacerlo con el siguientes comandos. 
+```Terminal de comandos
+git init
+git clone https://github.com/guevaraStian/APPs_Aplicaciones_Moviles.git
+cd APPs_Aplicaciones_Moviles
+git push origin master
+```
+
+
+
+
+
+
+
 <h2> ¡¡ ADVERTENCIA !! , TODOS LOS SOFTWARE DE ESTE REPOSITORIO, RELACIONADOS A CIBERSEGURIDAD TIENEN FUNCIONES EDUCATIVAS Y PEDAGOGICAS, NO DEBEN USARSE PARA VIOLAR PRIVACIDADES, NO DEBE USARSE SIN CONSENTIMIENTO DEL PROPIETARIO DEL DISPOSITIVO A HACKEAR. SON PROGRAMAS DE HACKING ETICO Y LA PERSONA QUE ACCEDAN A ESTOS SOFTWARE SON RESPONSABLE DE SU USO.</h2> 

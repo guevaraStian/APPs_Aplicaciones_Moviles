@@ -21,9 +21,9 @@ Los siguientes link sirven para descargar la apk de cada software creado en andr
 <br>
 
 
-Si quiere descargar los repositorios puede hacerlo dando click en el boton verde de descargar o si prefiere con los siguientes comandos. 
+Si quiere descargar los repositorios puede hacerlo dando click en el boton verde de descargar o si prefiere con los siguientes comandos luego de haber instalado git en el computador.
 
-
+Terminal de comandos
 ```Terminal de comandos
 git init
 git clone https://github.com/guevaraStian/APPs_Aplicaciones_Moviles.git

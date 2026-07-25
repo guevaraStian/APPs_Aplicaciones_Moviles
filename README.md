@@ -8,15 +8,15 @@ En este repositorio se encuentras codigos de programacion relacionados a aplicac
 
 Los siguientes link sirven para descargar la apk de cada software creado en android studio.
 <br> 
-[Descargar Detector_Imsi_Catcher_Mapa](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/Detector_Imsi_Catcher_Mapa/APK/Escaner_Imsi_Catcher-debug.apk)
+[Descargar Detector_Imsi_Catcher_Mapa](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/Detector_Imsi_Catcher_Mapa/APK)
 <br>
-[Descargar Escaner_Volumen_Sonido](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/Escaner_Volumen_Sonido/APK/app-debug.apk)
+[Descargar Escaner_Volumen_Sonido](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/Escaner_Volumen_Sonido/APK)
 <br>
-[Descargar Escuchar_Sonidos_Bajo_Volumenes](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/tree/main/Escuchar_Sonidos_Bajo_Volumenes/APK/app-debug.apk)
+[Descargar Escuchar_Sonidos_Bajo_Volumenes](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/tree/main/Escuchar_Sonidos_Bajo_Volumenes/APK)
 <br>
-[Descargar Radar_Bluetooth_Rssi](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/Radar_Bluetooth_Rssi/APK/app-debug.apk)
+[Descargar Radar_Bluetooth_Rssi](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/Radar_Bluetooth_Rssi/APK)
 <br>
-[Descargar Radar_Torres_Celular_4G_Evidencia](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/Radar_Torres_Celular_4G_Evidencia/APK/app-debug.apk)
+[Descargar Radar_Torres_Celular_4G_Evidencia](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/Radar_Torres_Celular_4G_Evidencia/APK)
 <br>
 <br>
 

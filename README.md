@@ -20,6 +20,24 @@ Los siguientes link sirven para descargar la apk de cada software creado en andr
 <br>
 <br>
 
+El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
+
+WINDOWS
+```Windows
+winget install --id Git.Git -e --source winget
+```
+
+LINUX, Fedora, Arch Linux, CentOS
+```Linux Fedora, Arch Linux, CentOS
+sudo dnf install git -y
+sudo pacman -S git
+sudo yum install git -y
+```
+MAC
+```MAC
+brew install git
+```
+
 
 Si quiere descargar los repositorios puede hacerlo dando click en el boton verde de descargar o si prefiere con los siguientes comandos luego de haber instalado git en el computador.
 

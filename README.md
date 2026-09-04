@@ -39,7 +39,7 @@ brew install git
 ```
 
 
-Si quiere descargar los repositorios puede hacerlo dando click en el boton verde de descargar o si prefiere con los siguientes comandos luego de haber instalado git en el computador.
+Si quiere descargar los repositorios puede hacerlo dando click en el boton verde de descargar o si prefiere con los siguientes comandos luego de haber instalado git en el computador. Los comandos git son los siguientes:
 
 Terminal de comandos
 ```Terminal de comandos

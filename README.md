@@ -20,7 +20,7 @@ Los siguientes link sirven para descargar la apk de cada software creado en andr
 <br>
 <br>
 
-El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
+El comando de consola para intalar GIT en cada sistema operativo es el siguiente en cada sistempa operativo respectivamente.
 
 WINDOWS
 ```Windows

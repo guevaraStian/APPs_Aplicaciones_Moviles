@@ -6,7 +6,7 @@ En este repositorio se encuentras codigos de programacion relacionados a aplicac
 <br> 
 
 
-Los siguientes link sirven para descargar la apk de cada software creado en android studio y poder ponero a funcionar.
+Los siguientes link sirven para descargar la apk de cada software creado en android studio y poder ponero a funcionar en sistemas operativos android.
 <br> 
 [Descargar Detector_Imsi_Catcher_Mapa](https://github.com/Guevarastian/APPs_Aplicaciones_Moviles/tree/main/Detector_Imsi_Catcher_Mapa/APK)
 <br>
